@@ -1,2 +1,2 @@
 # makepassphrase
-A collection of passphrase generators using a wordlist
+A diceware passphrase generator written in rust
