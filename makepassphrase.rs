@@ -15,7 +15,14 @@
  # You should have received a copy of the GNU General Public License
  # along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
- 
+
+/*
+echo "makepassphrase Copyright (C) 2015 Samir Nassar"
+echo "This program comes with ABSOLUTELY NO WARRANTY;"
+echo "This is free software, and you are welcome to redistribute it"
+echo "under certain conditions; type `show c' for details."
+ */
+
 use std::io;
 use std::io::File;
 
