@@ -40,6 +40,11 @@ GeneratePassphrase() {
 	echo "${Passphrase[@]}"
 }
 
+echo "makepassphrase Copyright (C) 2015 Samir Nassar"
+echo "This program comes with ABSOLUTELY NO WARRANTY;"
+echo "This is free software, and you are welcome to redistribute it"
+echo "under certain conditions; type `show c' for details."
+
 # Generate as many passphrases as desired.
 for j in $(eval echo {1..$passphrases})
 do
