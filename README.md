@@ -1,5 +1,4 @@
 # makepassphrase
-A collection of passphrase generators using a wordlist based on diceware
+A diceware passphrase generator written in bash
 
-- [makepassphrase in bash](https://github.com/snassar/makepassphrase/tree/bash)
-- [makepassphrase in rust](https://github.com/snassar/makepassphrase/tree/rust)
+- [makepassphrase in rust](https://github.com/snassar/makepassphrase.rs)
